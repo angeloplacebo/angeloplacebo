@@ -1,4 +1,4 @@
-![image](C:\Users\IronZ\Documents\readme\_banner.png)
+![image](_banner.png)
 
 ### Hi there 👋
 ------
