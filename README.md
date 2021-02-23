@@ -5,11 +5,11 @@
 
 - :computer: I'm currently studying **Computer Networking** at IFPB .
 
-- :robot: Learning and studying more about Front-end, Back-end, and Mobile development day by day.
+- :robot: Learning and studying more about Frontend, Backend, and Mobile development every day.
 
 - :books: Looking to be a professional developer.
 
-- :headphones: Music, :cinema: Movies & TV shows.
+- :headphones: Music, :cinema: Movies & :performing_arts: TV shows.
 
 ------
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/angeloplacebo)](https://github.com/angeloplacebo)
